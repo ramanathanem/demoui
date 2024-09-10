@@ -1,0 +1,50 @@
+.menu-style{
+    display: flex;
+    margin-left: 33%;
+}
+ul li{
+    list-style: none;
+    text-align: center;
+}
+
+.menu{
+    height: 18px;
+    width: 22px;
+    color: #111111;
+}
+.home-menu{
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 14px;
+    color: #E21B22;
+}
+.date{
+    font-family: Lato;
+    font-size: 15px;
+    color: #616161;
+    font-weight: 400;
+    line-height: 18px;
+}
+.caregories{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 14px;
+    color: #111111;
+}
+.lifestyle{
+    font-family: Iner;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    color: #595959;
+}
+.lifestyle-display{
+    display: flex;
+    margin-left: 40%;
+  
+}
+.lifestyle-display  li{
+   
+}

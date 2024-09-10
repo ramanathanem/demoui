@@ -1,0 +1,29 @@
+*{
+    width: 90%;
+    margin: 0;
+}
+.logo{
+  
+   margin-left: 50%;
+}
+.logo2{
+
+}
+.search::placeholder{
+color: #B0B0B0;
+font-family: Roboto;
+width: 400;
+font-size: 14px;
+
+}
+.search{
+    outline: none;
+    border: none;
+}
+.home-content{
+  
+    margin-left:40%;
+}
+.subcribe-button{
+  
+}

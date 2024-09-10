@@ -1,0 +1,28 @@
+.cardsimage{
+    width: 1347px;
+    height: 160px;
+    background: #F8F9FA;
+    display: flex;
+}
+.card-bg{
+    background: #FFFF;
+    display: flex;
+}
+.menucard{
+    height: 96px;
+    width: 117px;
+}
+.hotsport{
+    color: #E21B22;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+}
+.hotsport-content{
+    font-family: Iner;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+    line-height: 21px;
+}

@@ -1,0 +1,90 @@
+.image-content{
+
+}
+.btnfocus{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 15px;
+    color: #FFFFFF;
+    background: linear-gradient(275.95deg, #F92A28 27%, #DA1752 100%, #FFFFFF 100%);
+    outline: none;
+   border: none;
+    position: relative;
+    top: 193px;
+    width: 73px;
+    height: 27px;
+}
+.image-verlay{
+    background-image: url(./Rahul.png);
+    background-position: center;
+    background-size: cover;
+    height: 347px;
+    width: 519px;   
+}
+.news-content{
+    font-family: Iner;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 21px;
+    color: #FFF;
+    position: relative;
+    top: 200px;
+}
+.name{
+    font-family: Droid Sans;
+    font-size: 16.85px;
+    font-weight: 400;
+    line-height: 25.28px;
+    text-align: left;
+    position: relative;
+    top: 170px;
+    color: #FFF;
+    
+}
+.latestnews{
+    font-family: Roboto;
+    font-size: 20.12px;
+    font-weight: 500;
+    line-height: 24.14px;
+    text-align: left;
+color: #121212;    
+    
+}
+.news-flex{
+    display: flex;
+}
+.latest{
+    height: 159px;
+    width: 199px;
+}
+.card-news{
+    width: ;
+}
+.groupimage{
+    width: 143px;
+    height: 89px;
+}
+.cardheading{
+    font-family: Roboto;
+font-size: 11.1px;
+font-weight: 600;
+line-height: 19.01px;
+text-align: left;
+color: #E21B22;
+}
+.content-card{
+    font-size: 15px;
+}
+.stores{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 22px;
+color: #121212;
+}
+.stores2{
+    font-family: Iner;
+    font-weight: 400;
+    color: #666666;
+}
